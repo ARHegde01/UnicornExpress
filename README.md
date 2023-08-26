@@ -36,6 +36,8 @@
 ### Conclusion:
 - UnicornExpress serves as a testament to the potential of AWS services in creating dynamic, secure, and user-centric applications. From facilitating simple ride requests to handling intricate backend processes, this application offers a holistic solution for modern ride-hailing requirements.
 
+---
+
 ### Acknowledgments:
 - AWS Workshops
 - Amazon Web Services
